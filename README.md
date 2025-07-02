@@ -6,6 +6,7 @@ El problema que quiero resolver es
 
 Para ejecutar el código ejecute esto en la terminal
 
-Para el plan de accion, el dataset consiste en
+Para el plan de accion, el dataset elegido es
+Los modelos a utilizar en el dataset son:
 
-**Justificacion:** este modelo permite crear o realizar aaaaaaa
+**Justificacion:** Este modelo
