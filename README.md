@@ -8,7 +8,7 @@ El objetivo de este problema es como los hábitos de salud de cada estudiante af
 
 ## Breve descripcion del dataset y fuente
 
-Para el plan de accion, el dataset elegido es [https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance], este conjunto de datos explora la realacion entre los hábitos de vida (horas de sueño,horas de estudios,horas de redes sociales) y el rendimiento académico de los estudiantes.
+El dataset seleccionado es [https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance], este conjunto de datos explora la realacion entre los hábitos de vida (horas de sueño,horas de estudios,horas de redes sociales) y el rendimiento académico de los estudiantes.
 Es ideal para proyectos de aprendizaje autómatico, análisis de regresión, creacion de patrones para la clasificación
 Este dataset muestra 1000 observaciones (estudiantes) y 16 columnas(habitos de vida de estudiante y la calificación final de un exámen de los estudiantes)
 
