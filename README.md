@@ -2,9 +2,9 @@
 
 ## Descripcion del problema
 
-Cada estudiante tiene distintos hábitos de vidas diarias como hacer ejercicios, practicar deportes o cocinar entre otros.Sin embargo estos hábitos de vidas influyen en los rendimientos acádemicos sobre todo las horas de estudios y de sueño.Se incluye tambien la calificacion final del examen que determina el desempeño academico de cada estudiante.
+Cada estudiante tiene distintos hábitos de vidas diarias como hacer ejercicios, practicar deportes o cocinar entre otros.Sin embargo estos hábitos de salud influyen en los rendimientos acádemicos sobre todo las horas de estudios y de sueño.Se incluye tambien la calificacion final del examen que determina el desempeño academico de cada estudiante.
 
-El objetivo de este problema es como los hábitos de vidas de cada estudiante afectan a su rendimiento académico considerando las calificaciones de los exámenes finales.
+El objetivo de este problema es como los hábitos de salud de cada estudiante afectan a su rendimiento académico considerando las calificaciones de los exámenes finales y cuales impactos se podrian generar en base a los hábitos.
 
 ## Breve descripcion del dataset y fuente
 
