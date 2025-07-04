@@ -16,7 +16,7 @@ Este dataset muestra 1000 observaciones (estudiantes) y 16 columnas(habitos de v
 
 (Regresion Lineal)
 
-Para este conjunto de datos, utilizaremos el método de Regresion lineal,para predecir las califiaciones de los exámenes finales de cada estudiante en funcion a multiples variables independientes.Este dataset cuenta con 16 características,como la regresion lineal es un aprendizaje supervisado ,podemos ajustar el modelo mostrando las etiquetas para predecir los resultados de las califiaciones de los estudiantes.
+Para este conjunto de datos, utilizaremos el método de Regresion lineal para predecir las califiaciones de los exámenes finales de cada estudiante en funcion a multiples variables independientes.Este dataset cuenta con 16 características,como la regresion lineal es un aprendizaje supervisado se puede ajustar el modelo mostrando las etiquetas para predecir los resultados finales de las califiaciones de los estudiantes.
 
 El modelo de la regresión lineal es facil de entender y los resultados de la regresión son faciles de interpretar comprendiendo la relación entre variables y ádemas maneja una alta cantidad de datos permitiendo tener una buena escalabilidad y visualización de los datos.
 
