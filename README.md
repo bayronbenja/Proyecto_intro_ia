@@ -1,12 +1,11 @@
 # Proyecto final entrega 1
 
-## Presentacion del problema
+## Descripcion del problema
 
-El problema que quiero resolver es
+El problema que quiero resolver es que habitos de vida generan un mayor impacto de los rendimientos academicos de los estudiantes
 
-Para ejecutar el código ejecute esto en la terminal
-
-Para el plan de accion, el dataset elegido es
+Para el plan de accion, el dataset elegido es [https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance], este conjunto de datos explora como los hábitos de vida afectan el rendimiento académico de los estudiantes tales como horas de estudios, uso de las redes sociales, rutinas diarias.
+Es ideal para proyectos de aprendizaje autómatico, análisis de regresión,etc.
 
 Los modelos a utilizar en el dataset son:
 
