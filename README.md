@@ -28,7 +28,6 @@ El modelo de la regresión lineal es facil de entender y los resultados de la re
 - División de los datos
 - Entrenamiento de los datos
 - Testeo de los datos
-- PCA(reduccion a la dimensionalidad)
 - Validación Cruzada
 - Visualización de los gráficos
 - Métricas
