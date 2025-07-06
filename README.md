@@ -29,6 +29,6 @@ El modelo de la regresión lineal es facil de entender y los resultados de la re
 - Entrenamiento de los datos
 - Testeo de los datos
 - Validación Cruzada
-- Visualización de los gráficos
 - Métricas
+- Visualización de los gráficos
 - Resultados obtenidos
