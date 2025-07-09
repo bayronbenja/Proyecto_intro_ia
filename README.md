@@ -32,3 +32,7 @@ El modelo de la regresión lineal es facil de entender y los resultados de la re
 - Métricas
 - Visualización de los gráficos
 - Resultados obtenidos
+
+## Resultados obtenidos
+
+## Conclusiones
